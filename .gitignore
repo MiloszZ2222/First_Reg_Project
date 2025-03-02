@@ -1,0 +1,1 @@
+"*.pyc\n__pycache__/\n.ipynb_checkpoints/\nvenv/\nenv/\ndata/\n*.csv\n*.xlsx\nconfig.json\nsecrets.json\n.DS_Store\nThumbs.db" 
